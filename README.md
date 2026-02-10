@@ -1,9 +1,6 @@
 <div align="center">
-  <p style="color:#FF2D2D;font-weight:700;font-size:20px;letter-spacing:1px;margin:4px 0 2px;">
+  <p style="color:#FF2D2D;font-weight:700;font-size:20px;letter-spacing:1px;margin:6px 0;">
     尘寰寒彻，遂就流光之烬，更造春秋
-  </p>
-  <p style="color:#FF2D2D;font-size:13px;font-style:italic;margin:0 0 2px;">
-    Amidst the biting frost of the world, I gather the embers of fleeting light to forge a new epoch.
   </p>
 </div>
 
@@ -26,7 +23,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=dark&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="300" style="border-radius:8px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="354" style="border-radius:8px" />
   </picture>
 </div>
 
