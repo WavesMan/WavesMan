@@ -21,15 +21,12 @@
 
 ### 📈 活跃趋势
 
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="GitHub 3D Contributions" src="./profile-3d-contrib/profile-season-animate.svg" />
+  <source srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="GitHub 3D Contributions" src="./profile-3d-contrib/profile-south-season-animate.svg" />
 </picture>
 
 <img src="./github-metrics.svg" alt="Metrics" />
-</div>
 
 
 ### 📬 联系方式 | Contact
