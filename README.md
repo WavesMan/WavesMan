@@ -1,7 +1,6 @@
 ### 💻 技术栈 | Tech Stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=go,python,ts,vue,react,js,nodejs,linux,git,github,html,css&theme=light" alt="skills" />
-</div>
+<div align="center"><span><img src="https://skillicons.dev/icons?i=go" alt="Go" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32" height="32" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" /></span></div>
+
 
 
 ### 📊 GitHub 统计 | GitHub Stats
