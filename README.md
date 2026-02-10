@@ -1,7 +1,7 @@
 ### 💻 技术栈 | Tech Stack
-<div align="center"><span><img src="https://skillicons.dev/icons?i=go" alt="Go" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32" height="32"   /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32"   /></span></div>
+<div align="center"><span><img src="https://skillicons.dev/icons?i=go" alt="Go" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32" height="32" style="border-radius:8px" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" style="border-radius:8px" /></span></div>
 
-### ☁️ 云与网络 | Cloud & Network
+### ☁️ 云&网络 | Cloud & Network
 <div align="center"><span>
 <img src="https://img.shields.io/badge/H3C-Network-DA1212?style=flat&logoColor=white" alt="H3C Network Devices" /> 
 <img src="https://img.shields.io/badge/Huawei-Network-E60000?style=flat&logo=huawei&logoColor=white" alt="Huawei Network" /> 
@@ -12,18 +12,25 @@
 
 ### 📊 GitHub 统计 | GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" height="120" />
-    <img src="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" height="120" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" height="120" />
-</div>
-
-### 📈 活跃趋势
-<div align="center">
+  <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="210" style="border-radius:8px" />
+  <img src="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Top Languages" width="254" style="border-radius:8px" />
   <picture>
-    <source srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-    <img alt="GitHub 3D Contributions" src="./profile-3d-contrib/profile-south-season-animate.svg" width="480" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=dark&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="300" style="border-radius:8px" />
   </picture>
 </div>
+
+<details>
+  <summary>📈 活跃趋势</summary>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+      <img alt="GitHub 3D Contributions" src="./profile-3d-contrib/profile-south-season-animate.svg" width="360" style="border-radius:8px" />
+    </picture>
+  </div>
+</details>
 
 ### 📬 联系方式 | Contact
 <div align="center">
