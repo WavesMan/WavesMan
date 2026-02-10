@@ -22,3 +22,11 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_activity: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_days: 14
+          plugin_habits_from: 300
+          config_order: base.header, isocalendar, languages, habits, base.repositories, base.community, base.metadata
