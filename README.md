@@ -1,16 +1,15 @@
-<div align="center">
+<!-- <div align="center">
 <img
     width="200%"
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1200&color=FFB6C1&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+WavesMan+%E7%9A%84%E5%B0%8F%E7%AA%9D+%7C+WavesMan's+Home+%E2%9C%A8;%E6%84%BF%E4%BD%A0%E8%A2%AB%E4%B8%96%E7%95%8C%E6%B8%A9%E6%9F%94%E4%BB%A5%E5%BE%85+%E2%9C%BF;Happy+coding,+have+fun!+%E2%9C%A8"
     alt="Typing SVG"
 />
-</div>
+</div> -->
 
 ## 💻 技术栈 | Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,go,ts,vue,react,js,nodejs,linux,git,github,dart&theme=light" alt="skills" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,git,github&theme=light" alt="skills" />
 </div>
-
 
 ## 📊 GitHub 统计 | GitHub Stats
 
@@ -26,7 +25,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WavesMan/WavesMan/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WavesMan/WavesMan/output/github-contribution-grid-snake.svg" />
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/WavesMan/WavesMan/output/github-contribution-grid-snake.svg" />
-
+  
 </picture>
 
 <br/>

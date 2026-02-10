@@ -6,6 +6,9 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 20
     steps:
       - uses: lowlighter/metrics@latest
         with:
