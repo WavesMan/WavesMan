@@ -2,3 +2,5 @@
 .env*
 .env.local
 !.env.example
+
+readme-demo.md
