@@ -26,8 +26,6 @@
   <img alt="GitHub 3D Contributions" src="./profile-3d-contrib/profile-south-season-animate.svg" />
 </picture>
 
-<img src="./github-metrics.svg" alt="Metrics" />
-
 
 ### 📬 联系方式 | Contact
 
