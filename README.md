@@ -47,7 +47,7 @@
 <a href="https://github.com/WavesMan">
     <img src="https://img.shields.io/badge/GitHub-WavesMan-FFB6C1?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="waveyo@waveyo.cn">
+<a href="mailto:waveyo@waveyo.cn">
     <img src="https://img.shields.io/badge/Email-waveyo@waveyo.cn-FFB6C1?style=flat&logo=mail&logoColor=white" alt="email" />
 </a>
 <a href="https://home.waveyo.cn">
