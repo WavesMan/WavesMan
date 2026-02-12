@@ -22,12 +22,25 @@
 
 ### 📊 GitHub 统计 | GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="210" style="border-radius:8px" />
-  <img src="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=cobalt&hide_border=true&show_icons=true&include_all_commits=true" alt="Top Languages" width="254" style="border-radius:8px" />
+  <!-- GitHub Stats 图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=dark&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="354" style="border-radius:8px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=calm&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="210" style="border-radius:8px" />
+  </picture>
+
+  <!-- Top Languages 图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=calm&hide_border=true&show_icons=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=rose&hide_border=true&show_icons=true&include_all_commits=true" />
+    <img src="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=rose&hide_border=true&show_icons=true&include_all_commits=true" alt="Top Languages" width="254" style="border-radius:8px" />
+  </picture>
+
+  <!-- GitHub Streak 图片（已存在，无需修改） -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=calm&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=rose&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=rose&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="354" style="border-radius:8px" />
   </picture>
 </div>
 
