@@ -64,6 +64,6 @@
     <img src="https://img.shields.io/badge/Email-waveyo@waveyo.cn-FFB6C1?style=flat&logo=mail&logoColor=white" alt="email" />
 </a>
 <a href="https://www.waveyo.cn">
-    <img src="https://img.shields.io/badge/Home-home.waveyo.cn-FFB6C1?style=flat&logo=home&logoColor=white" alt="home" />
+    <img src="https://img.shields.io/badge/Home-www.waveyo.cn-FFB6C1?style=flat&logo=home&logoColor=white" alt="home" />
 </a>
 </div>
