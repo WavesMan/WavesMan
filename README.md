@@ -64,6 +64,9 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" style="border-radius:8px" /> 
       </td>
@@ -73,9 +76,6 @@
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" style="border-radius:8px" />
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
