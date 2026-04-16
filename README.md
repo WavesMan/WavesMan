@@ -10,33 +10,76 @@
 
 ### 💻 技术栈 | Tech Stack
 <div align="center">
-  <p>
-    <span>
-      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32" style="border-radius:8px" /> 
-    </span>
-  </p>
-  <p>
-    <span>
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Docker" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32" height="32" style="border-radius:8px" /> 
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" style="border-radius:8px" />
-    </span>
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=vue" alt="Vue" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" style="border-radius:8px" /> 
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32" height="32" style="border-radius:8px" />
+      </td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32" height="32" style="border-radius:8px" />
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
 </div>
 
 ### ☁️ 云&网络 | Cloud & Network
@@ -52,23 +95,23 @@
 <div align="center">
   <!-- GitHub Stats 图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=calm&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" />
-    <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" width="210" style="border-radius:8px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=calm&hide_border=true&hide_rank=true&show_icons=tr[...]" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=t[...]" />
+    <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub St[...]" />
   </picture>
 
   <!-- Top Languages 图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=calm&hide_border=true&show_icons=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=rose&hide_border=true&show_icons=true&include_all_commits=true" />
-    <img src="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=rose&hide_border=true&show_icons=true&include_all_commits=true" alt="Top Languages" width="254" style="border-radius:8px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=calm&hide_border=true&show_icons=true&in[...]" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=rose&hide_border=true&show_icons=true&i[...]" />
+    <img src="https://github-readme-stats-xi-six-86.vercel.app/api/top-langs/?username=WavesMan&layout=compact&theme=rose&hide_border=true&show_icons=true&include_all_commits=true" alt="Top Languages[...]" />
   </picture>
 
   <!-- GitHub Streak 图片（已存在，无需修改） -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=calm&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=rose&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=rose&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="354" style="border-radius:8px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WavesMan&theme=rose&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" width="354" style="border-[...]" />
   </picture>
 </div>
 
