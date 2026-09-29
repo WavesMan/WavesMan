@@ -34,10 +34,13 @@
         <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="32" height="32" style="border-radius:8px" /> 
       </td>
       <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" style="border-radius:8px" /> 
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="32" height="32" style="border-radius:8px" /> 
       </td>
     </tr>
     <tr>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="32" height="32" style="border-radius:8px" /> 
+      </td>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32" height="32" style="border-radius:8px" /> 
       </td>
@@ -59,14 +62,13 @@
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="32" height="32" style="border-radius:8px" /> 
       </td>
-      <td align="center" width="50">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" style="border-radius:8px" /> 
-      </td>
     </tr>
     <tr>
       <td></td>
       <td></td>
-      <td></td>
+      <td align="center" width="50">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="32" height="32" style="border-radius:8px" /> 
+      </td>
       <td align="center" width="50">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32" height="32" style="border-radius:8px" /> 
       </td>
