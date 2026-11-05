@@ -98,9 +98,9 @@
 <div align="center">
   <!-- GitHub Stats 图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=calm&hide_border=true&hide_rank=true&show_icons=tr[...]" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=t[...]" />
-    <img src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&hide_rank=true&show_icons=true&include_all_commits=true" alt="GitHub St[...]" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=calm&hide_border=true&show_icons=tr[...]" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&show_icons=t[...]" />
+    <img width=35% height=35% src="https://github-readme-stats-xi-six-86.vercel.app/api?username=WavesMan&show_icons=true&theme=rose&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub St[...]" />
   </picture>
 
   <!-- Top Languages 图片 -->
