@@ -90,6 +90,7 @@
 <img src="https://img.shields.io/badge/Huawei-Network-E60000?style=flat&logo=huawei&logoColor=white" alt="Huawei Network" /> 
 <img src="https://img.shields.io/badge/Aliyun-Cloud-F06E00?style=flat&logo=alibabacloud&logoColor=white" alt="Aliyun" /> 
 <img src="https://img.shields.io/badge/Tencent%20Cloud-Cloud-2B6CF6?style=flat&logo=tencentcloud&logoColor=white" alt="Tencent Cloud" /> 
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
 <img src="https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" /> 
 </span></div>
 
